@@ -8,7 +8,7 @@
 dipa-khadka/dipa-khadka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+![logo](https://github.com/dipa-khadka/dipa-khadka/blob/main/datascience.jfif)
 <h1 align="center">Hi 👋, I'm Dipa Khadka</h1>
 <h3 align="center">A passionate frontend developer from nepal</h3>
 <img align="right" alt="coding" width="400" src=" (https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif)">

@@ -3,7 +3,7 @@
 dipa-khadka/dipa-khadka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![logo](https://blog.voyancehq.com/hubfs/Ladies%20in%20tech%20copy.jpg)
+![logo](https://github.com/dipa-khadka/dipa-khadka/blob/main/data.jfif)
 <h1 align="center">Hi 👋, I'm Dipa Khadka</h1>
 <h3 align="center">A passionate frontend developer from nepal</h3>
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">

@@ -1,5 +1,6 @@
 ![logo](https://lh3.googleusercontent.com/yuUrDV2DAtBRvItHZ2FvXMkPbHR5NEt4kXbpp8dgK-r9jI9-irP19GJb2CvdBRYmy41KG4BxFu2Hod9GzdgGc46iYmm7As4bNNsc-JP7vYwY8d1BzHgZdvKR7H4xtLM20zR9gn0PJE-nQU0navp9Xh0pHc3Cp-CjYUENN7dWZ3NJiw8CiHFEJn7Mc0ul_A)
 <h1 align="center">Hi 👋, I'm Dipa Khadka</h1>
+
 <h3 align="center">A passionate frontend developer from nepal</h3>
 <img align="right" width="400" alt="coding" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47jamuevob6c1txdl5aaxarpulx7h4l502r336uavb&ep=v1_gifs_search&rid=200.webp&ct=g" >
 

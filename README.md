@@ -6,7 +6,6 @@
 <img align="right" width="400" alt="coding" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47jamuevob6c1txdl5aaxarpulx7h4l502r336uavb&ep=v1_gifs_search&rid=200.webp&ct=g" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipa-khadka&label=Profile%20views&color=0e75b6&style=flat" alt="dipa-khadka" /> </p>
-
 <p align="left"> <a href="https://twitter.com/dipa khadka" target="blank"><img src="https://img.shields.io/twitter/follow/dipa khadka?logo=twitter&style=for-the-badge" alt="dipa khadka" /></a> </p>
 
 - 🌱 I’m currently learning **Python + Data Science**
